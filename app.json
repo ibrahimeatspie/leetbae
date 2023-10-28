@@ -1,5 +1,6 @@
 {
   "expo": {
+    "scheme":"leetbaescheme",
     "name": "leetbae",
     "slug": "leetbae",
     "version": "1.0.0",
